@@ -1,0 +1,24 @@
+# Dataset
+codes/dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large binary files (upload to ModelScope instead)
+*.pickle
+*.npz
+
+# Intermediate/temp files
+codes/experiments.py
+codes/experiments_part2.py
+codes/hyperparameter_search.py
+codes/weight_visualization.py
+codes/dataset_explore.ipynb
+codes/training_plot.png
+codes/idx.pickle
+
+# Old model directories
+codes/best_models/
+codes/saved_models/
+codes/figs/
